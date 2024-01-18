@@ -1,6 +1,6 @@
 # Appendix x: Getting Started
 
-This is a brief guide to your first few minutes on the Commander X16. For a complete New User experience, please refer to the [Commander X16 User Guide](https://github.com/X16Community/x16-user-guide). 
+This is a brief guide to your first few minutes on the Commander X16. For a complete New User experience, please refer to the [Commander X16 User Guide](https://github.com/X16Community/x16-user-guide/releases/download/X16_Users_Guide/x16_user_guide.pdf)
 
 ## Finding and starting programs 
 
