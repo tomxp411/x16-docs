@@ -58,4 +58,15 @@ first.
 * [Documentation Source](https://github.com/X16Community/x16-docs)
 * [User Guide Source](https://github.com/X16Community/x16-user-guide)
 
+## Copyright Information
+
+© 2025 Commander Computers LLC https://www.commanderx16.com and Commander X16 Community https://www.cx16forum.com
+
+This documentation is licensed under Creative Commons Attribution Share-Alike (CC BY-SA). You *are allowed* to copy this documentation, give it to other people,
+and even remix parts of it in documents you create. We require that you credit us for our contributions (including a link to both web sites), and that you
+"share alike" by distributing those derivative works under the same terms that we are sharing this with you.
+
+You can find the full text of the CC BY-SA license at [The Creative Commons Attribution-ShareAlike 4.0 International Deed](https://creativecommons.org/licenses/by-sa/4.0/)
+or in our source repository at [User Guide Source](https://github.com/X16Community/x16-user-guide)
+
 <div class="page-break"></div>
